@@ -1,6 +1,6 @@
 # Data Access Model examples
 
-This repository supports the article I wrote regarding creating data access models in Node.js.
+This repository supports the [article](https://medium.com/@shawngrover/data-access-models-with-node-15b0e30807b4) I wrote regarding creating data access models in Node.js.
 
 ## Setup
 
